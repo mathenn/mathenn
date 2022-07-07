@@ -2,7 +2,6 @@
 
 - 🖥️ I’m currently working on personal projects.
 - 📚 I’m currently learning C# and SQL Server.
-
 - 🔖I'll study .net too!
 
 <div align="center">
